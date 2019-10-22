@@ -1,2 +1,10 @@
-# leetCode_283
-MoveZeroes
+# leetCode_problems:
+283_MoveZeroes
+
+1_TwoSum
+
+26_RemoveDuplicatesFromSortedArray
+
+9_PalidromeNumber
+
+167_twoSum_II_with_SortedArray
